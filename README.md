@@ -12,7 +12,7 @@ Projeto desenvolvido para a disciplina de Integração Contínua.
 ## Como executar
 
 ```bash
-./mvnw spring-boot:run
+mvn spring-boot:run
 ```
 
 A aplicação ficará disponível em:
